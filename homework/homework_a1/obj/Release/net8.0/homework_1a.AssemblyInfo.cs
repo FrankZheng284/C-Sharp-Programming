@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("homework_1a")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfb95bfbd44e247cca50d0608a2716d9e24d0bb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47cddac77e6ed2350abe089678b5f527a9136d0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("homework_1a")]
 [assembly: System.Reflection.AssemblyTitleAttribute("homework_1a")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
