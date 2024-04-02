@@ -1,0 +1,15 @@
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_b1\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
