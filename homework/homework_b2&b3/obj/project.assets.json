@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2&b3\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2&b3\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2&b3\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2&b3\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\23653\\.nuget\\packages\\",
-      "outputPath": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2&b3\\ConsoleApp\\obj\\",
+      "outputPath": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2&b3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2\u0026b3\\ConsoleApp\\",
+  "WorkspaceRootPath": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2\u0026b3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E7F737B-4A5F-4DE5-BBB0-8396C2FB6D94}|ConsoleApp.csproj|f:\\zwx\\cs\\c-sharp-programming\\homework\\homework_b2\u0026b3\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E7F737B-4A5F-4DE5-BBB0-8396C2FB6D94}|ConsoleApp.csproj|f:\\zwx\\cs\\c-sharp-programming\\homework\\homework_b2\u0026b3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E7F737B-4A5F-4DE5-BBB0-8396C2FB6D94}|ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2\u0026b3\\ConsoleApp\\Program.cs",
+              "DocumentMoniker": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2\u0026b3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2\u0026b3\\ConsoleApp\\Program.cs",
+              "ToolTip": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_b2\u0026b3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAkwGIAAAAeAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAawFkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T12:19:47.666Z",
               "EditorCaption": ""
