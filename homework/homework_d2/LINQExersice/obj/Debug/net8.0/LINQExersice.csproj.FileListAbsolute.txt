@@ -1,0 +1,15 @@
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\bin\Debug\net8.0\LINQExersice.exe
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\bin\Debug\net8.0\LINQExersice.deps.json
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\bin\Debug\net8.0\LINQExersice.runtimeconfig.json
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\bin\Debug\net8.0\LINQExersice.dll
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\bin\Debug\net8.0\LINQExersice.pdb
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\obj\Debug\net8.0\LINQExersice.GeneratedMSBuildEditorConfig.editorconfig
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\obj\Debug\net8.0\LINQExersice.AssemblyInfoInputs.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\obj\Debug\net8.0\LINQExersice.AssemblyInfo.cs
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\obj\Debug\net8.0\LINQExersice.csproj.CoreCompileInputs.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\obj\Debug\net8.0\LINQExersice.sourcelink.json
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\obj\Debug\net8.0\LINQExersice.dll
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\obj\Debug\net8.0\refint\LINQExersice.dll
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\obj\Debug\net8.0\LINQExersice.pdb
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\obj\Debug\net8.0\LINQExersice.genruntimeconfig.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d2\LINQExersice\obj\Debug\net8.0\ref\LINQExersice.dll

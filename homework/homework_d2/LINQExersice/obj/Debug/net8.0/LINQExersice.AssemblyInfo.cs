@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("OrderManagementSystem")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LINQExersice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c0b0c0b86115ea35d9d63c2635772e05f50357f")]
-[assembly: System.Reflection.AssemblyProductAttribute("OrderManagementSystem")]
-[assembly: System.Reflection.AssemblyTitleAttribute("OrderManagementSystem")]
+[assembly: System.Reflection.AssemblyProductAttribute("LINQExersice")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LINQExersice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
