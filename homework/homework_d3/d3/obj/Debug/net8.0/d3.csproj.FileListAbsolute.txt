@@ -1,0 +1,15 @@
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\bin\Debug\net8.0\d3.exe
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\bin\Debug\net8.0\d3.deps.json
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\bin\Debug\net8.0\d3.runtimeconfig.json
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\bin\Debug\net8.0\d3.dll
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\bin\Debug\net8.0\d3.pdb
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\obj\Debug\net8.0\d3.GeneratedMSBuildEditorConfig.editorconfig
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\obj\Debug\net8.0\d3.AssemblyInfoInputs.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\obj\Debug\net8.0\d3.AssemblyInfo.cs
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\obj\Debug\net8.0\d3.csproj.CoreCompileInputs.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\obj\Debug\net8.0\d3.sourcelink.json
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\obj\Debug\net8.0\d3.dll
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\obj\Debug\net8.0\refint\d3.dll
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\obj\Debug\net8.0\d3.pdb
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\obj\Debug\net8.0\d3.genruntimeconfig.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_d3\d3\obj\Debug\net8.0\ref\d3.dll
