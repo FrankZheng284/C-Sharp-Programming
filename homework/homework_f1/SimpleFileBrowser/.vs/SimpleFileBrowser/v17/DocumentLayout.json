@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_f1\\SimpleFileBrowser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB0A4C2-787A-4452-85D6-1EBBA5C6B534}|SimpleFileBrowser.csproj|f:\\zwx\\cs\\c-sharp-programming\\homework\\homework_f1\\simplefilebrowser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB0A4C2-787A-4452-85D6-1EBBA5C6B534}|SimpleFileBrowser.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB0A4C2-787A-4452-85D6-1EBBA5C6B534}|SimpleFileBrowser.csproj|f:\\zwx\\cs\\c-sharp-programming\\homework\\homework_f1\\simplefilebrowser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DB0A4C2-787A-4452-85D6-1EBBA5C6B534}|SimpleFileBrowser.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB0A4C2-787A-4452-85D6-1EBBA5C6B534}|SimpleFileBrowser.csproj|f:\\zwx\\cs\\c-sharp-programming\\homework\\homework_f1\\simplefilebrowser\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB0A4C2-787A-4452-85D6-1EBBA5C6B534}|SimpleFileBrowser.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_f1\\SimpleFileBrowser\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_f1\\SimpleFileBrowser\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAxwEoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:20:55.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_f1\\SimpleFileBrowser\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_f1\\SimpleFileBrowser\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAswFgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:18:00.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_f1\\SimpleFileBrowser\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\zwx\\CS\\C-Sharp-Programming\\homework\\homework_f1\\SimpleFileBrowser\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:16:58.949Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

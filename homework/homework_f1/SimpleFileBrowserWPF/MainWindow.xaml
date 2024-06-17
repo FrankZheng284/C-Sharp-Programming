@@ -1,0 +1,24 @@
+﻿<Window x:Class="FileBrowser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="简单文件浏览器" Height="450" Width="800">
+    <Grid>
+        <!-- 菜单和工具栏 -->
+        <Menu HorizontalAlignment="Stretch" VerticalAlignment="Top">
+            <!-- 菜单项 -->
+        </Menu>
+        <ToolBar HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="0,22,0,0">
+            <!-- 工具按钮 -->
+        </ToolBar>
+
+        <!-- 左侧树形视图 -->
+        <TreeView Name="FoldersTreeView" Margin="10,60,0,10" Width="200">
+            <!-- 树形视图节点 -->
+        </TreeView>
+
+        <!-- 右侧列表 -->
+        <ListView Name="FilesListView" Margin="220,60,10,10">
+            <!-- 列表项 -->
+        </ListView>
+    </Grid>
+</Window>

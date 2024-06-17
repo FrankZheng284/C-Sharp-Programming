@@ -1,0 +1,10 @@
+F:\zwx\CS\C-Sharp-Programming\homework\homework_f1\SimpleFileBrowser\bin\Debug\SimpleFileBrowser.exe.config
+F:\zwx\CS\C-Sharp-Programming\homework\homework_f1\SimpleFileBrowser\bin\Debug\SimpleFileBrowser.exe
+F:\zwx\CS\C-Sharp-Programming\homework\homework_f1\SimpleFileBrowser\bin\Debug\SimpleFileBrowser.pdb
+F:\zwx\CS\C-Sharp-Programming\homework\homework_f1\SimpleFileBrowser\obj\Debug\SimpleFileBrowser.csproj.AssemblyReference.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_f1\SimpleFileBrowser\obj\Debug\SimpleFileBrowser.Form1.resources
+F:\zwx\CS\C-Sharp-Programming\homework\homework_f1\SimpleFileBrowser\obj\Debug\SimpleFileBrowser.Properties.Resources.resources
+F:\zwx\CS\C-Sharp-Programming\homework\homework_f1\SimpleFileBrowser\obj\Debug\SimpleFileBrowser.csproj.GenerateResource.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_f1\SimpleFileBrowser\obj\Debug\SimpleFileBrowser.csproj.CoreCompileInputs.cache
+F:\zwx\CS\C-Sharp-Programming\homework\homework_f1\SimpleFileBrowser\obj\Debug\SimpleFileBrowser.exe
+F:\zwx\CS\C-Sharp-Programming\homework\homework_f1\SimpleFileBrowser\obj\Debug\SimpleFileBrowser.pdb
